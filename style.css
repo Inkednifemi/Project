@@ -10,6 +10,17 @@ body {
   background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
   color: #222;
 }
+#about {
+  padding: 60px 20px;
+  line-height: 1.7; /* improves vertical spacing between lines */
+}
+
+#about p {
+  margin-bottom: 20px;
+}
+#about .info-box {
+  margin-top: 30px;
+}
 
 header {
   background: #ff6f61;
